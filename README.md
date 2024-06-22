@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sankalpsbahad@gmail.com**
 
-- 📄 Know about my experiences [https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy)
+- 📄 Know about my experiences [Resume Link](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
