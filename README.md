@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUxY2R1bTQwaTVjMnN0MWFjNWhhcDFwMmpoZW1tb2xoOWF4ZWtheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUxY2R1bTQwaTVjMnN0MWFjNWhhcDFwMmpoZW1tb2xoOWF4ZWtheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sankalp Bahad</h1>
