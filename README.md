@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRmMDg0b3JkeHZleTQ0b3lqMnB2Ym0xOTEycWpjMmJ0ems5ampqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Sankalp Bahad</h1>
 <h3 align="center">A passionate NLP Researcher from India</h3>
 
