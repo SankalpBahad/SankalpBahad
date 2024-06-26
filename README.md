@@ -13,11 +13,12 @@
 
 - 📫 How to reach me **sankalpsbahad@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy)
+- 📄 Know about my experiences [https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sankalp bahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp bahad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sankalp-bahad-8b52822a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sankalp-bahad-8b52822a6/" height="30" width="40" /></a>
+<a href="https://medium.com/@sankalpsbahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sankalpsbahad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
