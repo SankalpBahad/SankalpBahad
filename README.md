@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sankalpsbahad@gmail.com**
 
-- 📄 Know about my experiences [Here](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/sankalp_bahad_research_iiit_ac_in/EXj2C_UI71ZDm3ZmqbHAP88BnfGlDdt6NrDrYPMI-pDcJw?e=MU69zy)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1aaMTyxa9CRKHXOEUKxf4HTxydB6DomVl/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
